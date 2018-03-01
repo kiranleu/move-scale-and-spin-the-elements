@@ -1,0 +1,7 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: #e84610;
+    transform: translate(100px, 100px);/*First one is fo -x and the second one for the -y*/
+    
+}
